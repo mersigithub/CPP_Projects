@@ -1,6 +1,5 @@
 //CSCI 2421 Data Structure Fall 2021
 //Assignment #1_Recursion
-//Mersimoy Gurmu, Student ID:1100418499
 //******************************************//
 #include<iostream>
 using namespace std;
