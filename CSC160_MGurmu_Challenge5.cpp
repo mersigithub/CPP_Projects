@@ -1,5 +1,4 @@
 // CSC160 C++ Computer Programming programming Challenge 5
-// Mersimoy Gurmu
 // The programming reverse the string that enter by user
 
 // Header File
