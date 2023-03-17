@@ -1,6 +1,5 @@
 // CSC160 Programming Challenge Two 
 // Community College of Aurora course cost proposal
-// Mersimoy Gurmu
 #include <iostream>
 #include <string>
 #include <cmath>
